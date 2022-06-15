@@ -1,0 +1,1 @@
+from pars_sms.sms import Sms
