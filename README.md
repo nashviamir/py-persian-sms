@@ -14,7 +14,7 @@ installation
 
 usage
 
-    from pars_sms.sms import Sms
+    from pars_sms import Sms
 	
 	api_key = "YOUR-API-KEY"
 	secret_key = "YOUR-SECRET-KEY"
