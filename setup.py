@@ -31,5 +31,5 @@ setup(
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
     ],
-    home_page=""
+    homepage="https://github.com/nashviamir/py-persian-sms"
 )
