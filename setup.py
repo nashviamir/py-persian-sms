@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'A Python library for sending SMS via sms.ir API'
 LONG_DESCRIPTION = 'A package that allows you to send SMS via sms.ir API without direct exposure to the API.' 
 
@@ -31,5 +31,5 @@ setup(
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
     ],
-    homepage="https://github.com/nashviamir/py-persian-sms"
+    url="https://github.com/nashviamir/py-persian-sms"
 )

@@ -1,1 +1,4 @@
 /tests
+/dist
+/build
+/py_persian_sms.egg-info
